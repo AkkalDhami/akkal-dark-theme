@@ -9,6 +9,7 @@ A modern dark theme for Visual Studio Code inspired by the timeless look and fee
 ![C](https://akkal.com.np/vscode/akkal-dark/screenshots/python.png)
 ![C](https://akkal.com.np/vscode/akkal-dark/screenshots/ts.png)
 ![C](https://akkal.com.np/vscode/akkal-dark/screenshots/tsx.png)
+![C](https://akkal.com.np/vscode/akkal-dark/screenshots/java.png)
 
 ## Features
 
