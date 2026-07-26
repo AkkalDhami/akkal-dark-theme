@@ -2,6 +2,17 @@
 
 All notable changes to **Akkal Dark Theme** will be documented here.
 
+## [1.0.3] - 2026-07-26
+
+### Improved
+
+- Refined syntax highlighting across multiple languages.
+- Added dedicated colors for numbers, booleans, and language constants.
+- Improved Java syntax highlighting for modifiers and primitive types.
+- Enhanced overall color consistency and readability.
+
+---
+
 ## [1.0.2] - 2026-07-25
 
 ### Added
