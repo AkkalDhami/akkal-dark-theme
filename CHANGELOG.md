@@ -2,6 +2,17 @@
 
 All notable changes to **Akkal Dark Theme** will be documented here.
 
+## [1.0.4] - 2026-07-27
+
+### Changed
+
+- Refined comment colours for improved readability.
+- Updated Markdown heading colours.
+- Improved the colour of **bold** text in Markdown.
+- Made minor colour refinements across the theme for a more consistent appearance.
+
+---
+
 ## [1.0.3] - 2026-07-26
 
 ### Improved
