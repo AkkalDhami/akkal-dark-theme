@@ -2,6 +2,28 @@
 
 All notable changes to **Akkal Dark Theme** will be documented here.
 
+## [1.0.5] - 2026-07-30
+
+### Improved
+
+- Refined Markdown heading colors for better readability and visual hierarchy.
+- Updated terminal ANSI colors (`ansiBrightRed`, `ansiBrightMagenta`, and `ansiBrightGreen`, `ansiBrightCyan`, `ansiBrightBlue`) for improved contrast and consistency.
+- Adjusted `selectionHighlightBackground` to make highlighted matches more visible.
+- Applied minor color refinements across the theme for a more consistent editing experience.
+
+---
+
+## [1.0.4] - 2026-07-27
+
+### Changed
+
+- Refined comment colours for improved readability.
+- Updated Markdown heading colours.
+- Improved the colour of **bold** text in Markdown.
+- Made minor colour refinements across the theme for a more consistent appearance.
+
+---
+
 ## [1.0.4] - 2026-07-27
 
 ### Changed
