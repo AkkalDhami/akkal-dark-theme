@@ -908,14 +908,14 @@
       "name": "[VSCODE-CUSTOM] Markdown headings",
       "scope": "entity.name.section.markdown",
       "settings": {
-        "foreground": "#ff2c3d"
+        "foreground": "#0fd9f4"
       }
     },
     {
       "name": "[VSCODE-CUSTOM] Markdown heading Punctuation Definition",
       "scope": "punctuation.definition.heading.markdown",
       "settings": {
-        "foreground": "#ff2c3d"
+        "foreground": "#0fd9f4"
       }
     },
     {
@@ -943,14 +943,14 @@
       "name": "[VSCODE-CUSTOM] Markdown Inline Raw",
       "scope": "markup.inline.raw.markdown",
       "settings": {
-        "foreground": "#99fb52"
+        "foreground": "#5cd903"
       }
     },
     {
       "name": "[VSCODE-CUSTOM] Markdown Inline Raw",
       "scope": "markup.inline.raw.string.markdown",
       "settings": {
-        "foreground": "#99fb52"
+        "foreground": "#5ddb03"
       }
     },
     {
@@ -2064,7 +2064,7 @@
     "editor.foreground": "#abb2bf",
     "editor.lineHighlightBackground": "#121212",
     "editor.selectionBackground": "#67769660",
-    "editor.selectionHighlightBackground": "#f85c07e6",
+    "editor.selectionHighlightBackground": "#676666e6",
     "editor.selectionHighlightBorder": "#dddddd",
     "editor.wordHighlightBackground": "#3c3c3c5a",
     "editor.wordHighlightBorder": "#444444",
@@ -2151,17 +2151,17 @@
     "tab.inactiveBackground": "#000000",
     "tab.unfocusedHoverBackground": "#121212",
     "terminal.ansiBlack": "#3f4451",
-    "terminal.ansiBlue": "#4aa5f0",
+    "terminal.ansiBlue": "#0079dc",
     "terminal.ansiBrightBlack": "#4f5666",
-    "terminal.ansiBrightBlue": "#4dc4ff",
-    "terminal.ansiBrightCyan": "#4cd1e0",
-    "terminal.ansiBrightGreen": "#75ff04",
+    "terminal.ansiBrightBlue": "#0093dc",
+    "terminal.ansiBrightCyan": "#00bfd4",
+    "terminal.ansiBrightGreen": "#00d212",
     "terminal.ansiBrightMagenta": "#c42df2",
-    "terminal.ansiBrightRed": "#fb505e",
+    "terminal.ansiBrightRed": "#e01123",
     "terminal.ansiBrightWhite": "#e6e6e6",
     "terminal.ansiBrightYellow": "#fc922e",
     "terminal.ansiCyan": "#25dcf4",
-    "terminal.ansiGreen": "#0cff20",
+    "terminal.ansiGreen": "#00cb11",
     "terminal.ansiMagenta": "#c42df2",
     "terminal.ansiRed": "#e05561",
     "terminal.ansiWhite": "#d7dae0",
