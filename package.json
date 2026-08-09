@@ -2,7 +2,7 @@
   "name": "akkal-dark-theme",
   "displayName": "Akkal Dark Theme",
   "description": "A modern dark theme for Visual Studio Code inspired by the timeless look and feel of One Dark Pro.",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "publisher": "akkal",
   "license": "MIT",
   "icon": "icon.png",
@@ -15,6 +15,8 @@
   "keywords": [
     "theme",
     "akkal dark theme",
+    "akkal midnight theme",
+    "akkal midnight",
     "akkal dark",
     "akkal dark pro",
     "akkal dark pro theme",
@@ -33,9 +35,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Akkal Dark Theme",
+        "label": "Akkal Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/Akkal Dark-color-theme.json"
+        "path": "./themes/Akkal Dark.json"
+      },
+      {
+        "label": "Akkal Midnight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Akkal Midnight.json"
       }
     ]
   },
