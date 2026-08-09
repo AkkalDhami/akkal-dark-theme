@@ -2,6 +2,16 @@
 
 All notable changes to **Akkal Dark Theme** will be documented here.
 
+## [1.0.6] - 2026-08-09
+
+### Added
+
+- Added **Akkal Midnight** theme variant as an alternative dark theme.
+- Added a softer, muted color palette for a more comfortable coding experience.
+- Added **Akkal Midnight** to the available VS Code themes.
+
+---
+
 ## [1.0.5] - 2026-07-30
 
 ### Improved
