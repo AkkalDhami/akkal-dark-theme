@@ -24,6 +24,11 @@
     "vscode theme",
     "one dark",
     "one dark pro",
+    "one dark pro theme",
+    "dark pro theme",
+    "vesper dark",
+    "vesper dark theme",
+    "vesper theme",
     "developer theme",
     "syntax highlighting"
   ],
@@ -43,6 +48,11 @@
         "label": "Akkal Midnight",
         "uiTheme": "vs-dark",
         "path": "./themes/Akkal Midnight.json"
+      },
+      {
+        "label": "Vesper Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Vesper Dark.json"
       }
     ]
   },
