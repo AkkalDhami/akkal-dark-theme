@@ -2088,9 +2088,12 @@
     "editorHoverWidget.highlightForeground": "#61afef",
     "editorIndentGuide.activeBackground1": "#c8c8c859",
     "editorIndentGuide.background1": "#3b4048",
+
+    "extensionButton.hoverBackground": "#953b0b",
+
     "editorInlayHint.background": "#121212",
     "editorInlayHint.foreground": "#abb2bf",
-    "editorLineNumber.activeForeground": "#abb2bf",
+    "editorLineNumber.activeForeground": "#ffffff",
     "editorLineNumber.foreground": "#667187",
     "editorMarkerNavigation.background": "#0a0a0a",
     "editorRuler.foreground": "#abb2bf26",
