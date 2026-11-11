@@ -1,6 +1,13 @@
 # Changelog
 
-This project collects my favorite VS Code themes, forked and refined to suit my personal taste. Notable changes to the collection are documented here.
+Notable updates to the Akkal Dark Theme collection are listed here.
+
+## [1.0.8] - 2026-11-12
+
+### Added
+
+- Added **Ayu Dark**, bringing another carefully adapted dark palette to the collection.
+- Added Ayu Dark theme keywords to improve discoverability.
 
 ## [1.0.7] - 2026-11-05
 
