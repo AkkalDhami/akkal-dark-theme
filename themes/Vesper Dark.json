@@ -2,7 +2,7 @@
   "name": "Vesper Dark",
   "colors": {
     "editor.background": "#000000",
-    "editor.foreground": "#FFF",
+    "editor.foreground": "#f5f5f5",
     "editor.selectionBackground": "#FFFFFF25",
     "editor.selectionHighlightBackground": "#FFFFFF25",
     "editorLineNumber.activeForeground": "#ffffff",

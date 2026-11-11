@@ -1,8 +1,8 @@
 {
   "name": "akkal-dark-theme",
   "displayName": "Akkal Dark Theme",
-  "description": "A modern dark theme for Visual Studio Code inspired by the timeless look and feel of One Dark Pro.",
-  "version": "1.0.7",
+  "description": "A collection of dark themes for Visual Studio Code, built around the colors and styles I enjoy using every day. These are my favorite themes, forked and adjusted to match my personal taste.",
+  "version": "1.0.8",
   "publisher": "akkal",
   "license": "MIT",
   "icon": "icon.png",
@@ -35,7 +35,9 @@
     "vesper dark theme",
     "vesper theme",
     "developer theme",
-    "syntax highlighting"
+    "syntax highlighting",
+    "ayu dark",
+    "ayu dark pro"
   ],
   "galleryBanner": {
     "color": "#21252B",
@@ -58,6 +60,11 @@
         "label": "Vesper Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/Vesper Dark.json"
+      },
+      {
+        "label": "Ayu Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Ayu Dark.json"
       }
     ]
   },
