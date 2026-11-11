@@ -1,20 +1,21 @@
 # Akkal Dark Theme
 
-A collection of dark themes for Visual Studio Code, built around the colors and styles I enjoy using every day. These are my favorite themes, forked and adjusted to match my personal taste.
+A collection of dark color themes for Visual Studio Code, curated and adapted to make everyday coding comfortable. Choose from colorful syntax, muted tones, deep black, or warm accents.
 
-## Themes
+## Included themes
 
 - **Akkal Dark** — a colorful, One Dark-inspired theme with custom syntax and semantic highlighting.
-- **Akkal Midnight** — a softer, more muted take for a calmer coding environment.
+- **Akkal Midnight** — a softer, more muted alternative to Akkal Dark.
 - **Vesper Dark** — a deep black theme with warm accents.
+- **Ayu Dark** — a dark theme with a balanced palette and warm yellow accents.
 
-All three themes include custom editor and workbench colors. Akkal Dark and Akkal Midnight also support semantic highlighting.
+Each theme includes custom editor and workbench colors. Akkal Dark and Akkal Midnight also support semantic highlighting.
 
-## Original themes
+## Inspiration and credits
 
-These are personal adaptations of themes I enjoy. **Akkal Dark** and **Akkal Midnight** are based on [One Dark Pro](https://github.com/Binaryify/OneDark-Pro), and **Vesper Dark** is based on [Vesper](https://github.com/raunofreiberg/vesper). Visit the original repositories to learn more about their authors and projects.
+These themes are personal adaptations of styles I enjoy. Akkal Dark and Akkal Midnight are based on [One Dark Pro](https://github.com/Binaryify/OneDark-Pro), Vesper Dark is based on [Vesper](https://github.com/raunofreiberg/vesper), and Ayu Dark is based on [Ayu](https://github.com/ayu-theme/ayu-vscode). Please visit the original projects to learn more about their authors.
 
-## Preview
+## Previews
 
 ![Akkal Dark highlighting in C](https://akkal.com.np/vscode/akkal-dark/screenshots/c.png)
 ![Akkal Midnight highlighting in TSX](https://akkal.com.np/vscode/akkal-dark/screenshots/tsx-midnight.png)
@@ -29,7 +30,7 @@ These are personal adaptations of themes I enjoy. **Akkal Dark** and **Akkal Mid
 1. Open the **Extensions** view in VS Code (`Ctrl+Shift+X`).
 2. Search for **Akkal Dark Theme** and install it.
 3. Open **Preferences: Color Theme** from the Command Palette (`Ctrl+Shift+P`).
-4. Choose **Akkal Dark**, **Akkal Midnight**, or **Vesper Dark**.
+4. Choose **Akkal Dark**, **Akkal Midnight**, **Vesper Dark**, or **Ayu Dark**.
 
 ## Feedback
 
