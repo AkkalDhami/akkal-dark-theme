@@ -2,7 +2,13 @@
 
 Notable updates to the Akkal Dark Theme collection are listed here.
 
-## [1.0.8] - 2026-11-13
+## [1.0.9] - 2026-11-13
+
+### Added
+
+- Added **Vesper Midnight**, a darker, more subdued take on Vesper's warm palette.
+
+## [1.0.8] - 2026-11-10
 
 ### Added
 

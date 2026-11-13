@@ -2,7 +2,7 @@
   "name": "akkal-dark-theme",
   "displayName": "Akkal Dark Theme",
   "description": "A collection of dark themes for Visual Studio Code, built around the colors and styles I enjoy using every day. These are my favorite themes, forked and adjusted to match my personal taste.",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "publisher": "akkal",
   "license": "MIT",
   "icon": "icon.png",
@@ -60,6 +60,11 @@
         "label": "Vesper Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/Vesper Dark.json"
+      },
+      {
+        "label": "Vesper Midnight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Vesper Midnight.json"
       },
       {
         "label": "Ayu Dark",
