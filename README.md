@@ -7,13 +7,14 @@ A collection of dark color themes for Visual Studio Code, curated and adapted to
 - **Akkal Dark** — a colorful, One Dark-inspired theme with custom syntax and semantic highlighting.
 - **Akkal Midnight** — a softer, more muted alternative to Akkal Dark.
 - **Vesper Dark** — a deep black theme with warm accents.
+- **Vesper Midnight** — a darker, more subdued take on Vesper's warm palette.
 - **Ayu Dark** — a dark theme with a balanced palette and warm yellow accents.
 
 Each theme includes custom editor and workbench colors. Akkal Dark and Akkal Midnight also support semantic highlighting.
 
 ## Inspiration and credits
 
-These themes are personal adaptations of styles I enjoy. Akkal Dark and Akkal Midnight are based on [One Dark Pro](https://github.com/Binaryify/OneDark-Pro), Vesper Dark is based on [Vesper](https://github.com/raunofreiberg/vesper), and Ayu Dark is based on [Ayu](https://github.com/ayu-theme/ayu-vscode). Please visit the original projects to learn more about their authors.
+These themes are personal adaptations of styles I enjoy. Akkal Dark and Akkal Midnight are based on [One Dark Pro](https://github.com/Binaryify/OneDark-Pro), Vesper Dark and Vesper Midnight are based on [Vesper](https://github.com/raunofreiberg/vesper), and Ayu Dark is based on [Ayu](https://github.com/ayu-theme/vscode-ayu). Please visit the original projects to learn more about their authors.
 
 ## Previews
 
@@ -30,7 +31,11 @@ These themes are personal adaptations of styles I enjoy. Akkal Dark and Akkal Mi
 1. Open the **Extensions** view in VS Code (`Ctrl+Shift+X`).
 2. Search for **Akkal Dark Theme** and install it.
 3. Open **Preferences: Color Theme** from the Command Palette (`Ctrl+Shift+P`).
-4. Choose **Akkal Dark**, **Akkal Midnight**, **Vesper Dark**, or **Ayu Dark**.
+4. Choose **Akkal Dark**, **Akkal Midnight**, **Vesper Dark**, **Vesper Midnight**, or **Ayu Dark**.
+
+## Contributing
+
+Contributions are welcome! You can add your favorite theme with your own taste and customizations. Feel free to open a pull request and share it with the community.
 
 ## Feedback
 
