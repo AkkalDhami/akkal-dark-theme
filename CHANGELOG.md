@@ -2,7 +2,7 @@
 
 Notable updates to the Akkal Dark Theme collection are listed here.
 
-## [1.0.8] - 2026-11-12
+## [1.0.8] - 2026-11-13
 
 ### Added
 
